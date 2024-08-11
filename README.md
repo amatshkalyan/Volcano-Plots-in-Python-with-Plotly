@@ -14,5 +14,5 @@ Volcano plots are particularly useful for visualizing large datasets and pinpoin
 Beyond genomics, volcano plots are also utilized in drug discovery, proteomics, and other fields where large-scale data sets require careful analysis to pinpoint relevant findings. They help in identifying outliers and patterns that may indicate important biological phenomena, making them a staple in exploratory data analysis for complex biological data. Using Python and Plotly, these plots can be customized and made interactive, providing a dynamic way to explore and communicate findings.
 
 
-![Alt text](<img width="989" alt="image" src="https://github.com/user-attachments/assets/b95b25eb-2011-4af0-8078-6b7bca4a7f3c">
-)
+<img width="989" alt="image" src="https://github.com/user-attachments/assets/b95b25eb-2011-4af0-8078-6b7bca4a7f3c">
+
